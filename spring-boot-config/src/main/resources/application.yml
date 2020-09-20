@@ -1,0 +1,13 @@
+person:
+  name: jacky
+  birth: 1992/07/27
+  list:
+    - item1
+    - item2
+    - item3
+  map:
+    k1: v1
+    k2: v2
+  pets: [{name: 小黄, age: 1},{name: 小白, age: 2}]
+  age: 28
+  boss: false
