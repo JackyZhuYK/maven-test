@@ -10,7 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-boot-config</module>
-        <module>spring-learn</module>
+        <module>spring4-learn</module>
+        <module>springmvc4-learn</module>
     </modules>
 
     <properties>
@@ -30,6 +31,13 @@
                     <include>**/*.xml</include>
                 </includes>
                 <filtering>false</filtering>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <!--包含文件夹以及子文件夹下所有资源-->
+                    <include>**/*.*</include>
+                </includes>
             </resource>
         </resources>
     </build>
