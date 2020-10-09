@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springmvc4-learn</artifactId>
+    <artifactId>03-springmvc4-learn</artifactId>
     <packaging>war</packaging>
 
     <properties>

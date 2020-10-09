@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring4-learn</artifactId>
+    <artifactId>02-spring4-learn</artifactId>
 
     <properties>
         <spring-framework.version>4.1.6.RELEASE</spring-framework.version>
