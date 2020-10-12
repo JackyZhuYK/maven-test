@@ -4,21 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
-    <artifactId>maven-test</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>spring-boot-config</module>
-        <module>02-spring4-learn</module>
-        <module>03-springmvc4-learn</module>
-    </modules>
-
-    <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
-        <java.version>1.8</java.version>
-    </properties>
+    <artifactId>02-springboot实战学习</artifactId>
 
     <!-- 解决类路径下的properties和xml等文件不会被编译的问题 -->
     <build>
@@ -41,5 +27,4 @@
             </resource>
         </resources>
     </build>
-
 </project>
