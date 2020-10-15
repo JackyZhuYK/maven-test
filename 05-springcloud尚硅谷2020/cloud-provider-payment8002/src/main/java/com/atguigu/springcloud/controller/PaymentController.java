@@ -29,7 +29,7 @@ public class PaymentController {
         }
     }
 
-    @GetMapping("/payment/{id}")
+    @GetMapping("/payment/get/{id}")
     public CommonResult<Payment> queryPaymentById(@PathVariable("id") Long id){
         Payment payment = paymentService.getPaymentById(id);
         log.info("******查询成功，返回结果为:"+payment+"*****");
