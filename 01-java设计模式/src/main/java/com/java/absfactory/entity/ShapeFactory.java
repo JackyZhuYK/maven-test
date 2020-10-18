@@ -1,4 +1,4 @@
-package main.java.java.absfactory.entity;
+package com.java.absfactory.entity;
 
 public class ShapeFactory extends AbstractFactory{
 

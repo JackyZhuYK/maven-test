@@ -1,4 +1,4 @@
-package main.java.java.factory.entity;
+package com.java.factory.entity;
 
 public class ShapeFactory {
 

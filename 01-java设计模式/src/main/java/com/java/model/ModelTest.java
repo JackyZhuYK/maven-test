@@ -1,8 +1,8 @@
-package main.java.java.model;
+package com.java.model;
 
-import main.java.java.model.entity.BlackSoul;
-import main.java.java.model.entity.Game;
-import main.java.java.model.entity.Zelda;
+import com.java.model.entity.BlackSoul;
+import com.java.model.entity.Game;
+import com.java.model.entity.Zelda;
 
 /**
  * 模板模式

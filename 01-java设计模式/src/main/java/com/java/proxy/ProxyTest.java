@@ -1,7 +1,7 @@
-package main.java.java.proxy;
+package com.java.proxy;
 
-import main.java.java.proxy.entity.Image;
-import main.java.java.proxy.entity.RealImageProxy;
+import com.java.proxy.entity.Image;
+import com.java.proxy.entity.RealImageProxy;
 
 /**
  * 代理模式

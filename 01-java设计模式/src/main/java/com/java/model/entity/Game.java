@@ -1,4 +1,4 @@
-package main.java.java.model.entity;
+package com.java.model.entity;
 
 public abstract class Game {
 

@@ -1,4 +1,4 @@
-package main.java.java.model.entity;
+package com.java.model.entity;
 
 public class Zelda extends Game{
     void start() {

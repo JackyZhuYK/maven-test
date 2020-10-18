@@ -1,7 +1,7 @@
-package main.java.java.factory;
+package com.java.factory;
 
-import main.java.java.factory.entity.Shape;
-import main.java.java.factory.entity.ShapeFactory;
+import com.java.factory.entity.Shape;
+import com.java.factory.entity.ShapeFactory;
 
 /**
  *  工厂模式

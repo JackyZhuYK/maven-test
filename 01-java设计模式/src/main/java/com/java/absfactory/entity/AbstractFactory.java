@@ -1,4 +1,4 @@
-package main.java.java.absfactory.entity;
+package com.java.absfactory.entity;
 
 public abstract class AbstractFactory {
     public abstract Color getColor(String type);

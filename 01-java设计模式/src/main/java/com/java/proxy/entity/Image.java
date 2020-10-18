@@ -1,4 +1,4 @@
-package main.java.java.proxy.entity;
+package com.java.proxy.entity;
 
 public interface Image {
 
